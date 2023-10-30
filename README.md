@@ -2,7 +2,7 @@
 * [Scenario](#Scenario)
 * [Analysis process](#Analysisprocess)
 * [Codes](#Codes)
-* [Preview result](Previewresult)
+* [Preview result](# Preview result)
 
 # Case study project
 
@@ -224,7 +224,7 @@ write.csv(counts, "Novo volume", row.names = FALSE)
 
 ```
 
-## Preview result
+# Preview result
 
 ### Visualization using RStudio with the ggplot package
 <div align=center>
