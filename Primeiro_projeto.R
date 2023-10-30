@@ -175,4 +175,3 @@ counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_
 #Exportando o arquivo para .csv
 
 write.csv(counts, "Novo volume", row.names = FALSE)
-
