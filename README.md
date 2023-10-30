@@ -27,10 +27,10 @@ After that, I separated the dates in the table into different columns by: day, m
 
 I created the "ride_lenght" column in the table as a combination of two other columns in the table that were data and form the time in seconds of use per customer.
 
-Depois criei uma nova variável como segunda versão para remover alguns dados ruim que apresentavam.
+Then I created a new variable as a second version to remove some bad data that was presented.
 
-Fiz resumo da nova variável específica da coluna para se ter uma noção dos resultados da "ride_length".
+I summarized the new column-specific variable to get an idea of ​​the results of "ride_length".
 
-Os agreguei e fiz uma comparação nos dados das colunas "ride_length" e "member_casual". Para saber a comparação de tempo entre os membros.
+I aggregated them and compared the data in the "ride_length" and "member_casual" columns. To know the time comparison between members.
 
-Por fim fiz a função "ggplot" para mostrar um gráfico que mostrasse quais membros mais usam as bicicletas, e quais dias da semana elas mais são usadas. Mostrando que os clientes membros usam mais do que os clientes casuais.
+Finally, I made the "ggplot" function to show a graph that showed which members use the bikes the most, and which days of the week they are used the most. Showing that member customers use it more than casual customers.
