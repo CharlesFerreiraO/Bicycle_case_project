@@ -9,7 +9,7 @@ I'm a junior data analyst, I'm part of a marketing team at a bike rental company
 
 First I downloaded the data from the Amazon AWS platform as it is open data. With it I obtained several data from 2013-2020, however, I downloaded the data from 2019-2020 as it contained a lot of data and was more recent.
 
-Soon after, I imported them into RStudio and created new variables with "<-" which is called "receive" in the R language. After creating these new variables, I placed them with the "colnames()" function and did them one by one to know the name of all the columns in the tables.
+Soon after, I imported them into RStudio and created new variables with "<-" which is called receive in the R language. After creating these new variables, I placed them with the "colnames()" function and did them one by one to know the name of all the columns in the tables.
 
 Once you know all the columns in the tables, rename the 2019 columns with the same name as the 2020 columns (to make it easier to work with them).
 
