@@ -2,7 +2,7 @@
 
 # Scenario
 
-I'm a junior data analyst where I'm part of a marketing team for a bike rental company and I've been given the role of figuring out customers' average time on bikes
+I'm a junior data analyst, I'm part of a marketing team at a bike rental company and I was tasked with finding out the average time customers use bikes from 2019 and 2020.
 
 
 # Analysis process
