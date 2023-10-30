@@ -1,6 +1,6 @@
 # Índices
 * [Scenario](#Scenario)
-* [Analysis process](#Analysisprocess)
+* [Analysis process](#Development)
 * [Codes](#Codes)
 * [Preview result](#Preview)
 
@@ -11,7 +11,7 @@
 I'm a junior data analyst, I'm part of a marketing team at a bike rental company and I was tasked with finding out the average time customers use bikes from 2019 and 2020.
 
 
-# Analysis process
+# Development
 
 First I downloaded the data from the Amazon AWS platform as it is open data. With it I obtained several data from 2013-2020, however, I downloaded the data from 2019-2020 as it contained a lot of data and was more recent.
 
