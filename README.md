@@ -37,7 +37,7 @@ Finally, I made the "ggplot" function to show a graph that showed which members 
 
 ## Codes
 
-```
+```R
 #Creating new variables
 
 q2_2019 <- Divvy_Trips_2019_Q2
