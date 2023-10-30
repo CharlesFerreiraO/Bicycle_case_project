@@ -1,8 +1,8 @@
 # Índices
-* [Scenario](#Scenario)
-* [Analysis process](#Analysisprocess)
-* [Codes](##Codes)
-* [Preview result](##Previewresult)
+* [Scenario](Scenario)
+* [Analysis process](Analysisprocess)
+* [Codes](Codes)
+* [Preview result](Previewresult)
 
 # Case study project
 
