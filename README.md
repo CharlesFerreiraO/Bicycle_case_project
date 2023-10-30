@@ -1,7 +1,7 @@
 # Índices
-* [Scenario](#Scenario)
+* [Scenario] (#Scenario)
 * [Analysis process](#Analysisprocess)
-* [Codes](Codes)
+* [Codes](#Codes)
 * [Preview result](Previewresult)
 
 # Case study project
@@ -41,7 +41,7 @@ I aggregated them and compared the data in the "ride_length" and "member_casual"
 
 Finally, I made the "ggplot" function to show a graph that showed which members use the bikes the most, and which days of the week they are used the most. Showing that member customers use it more than casual customers.
 
-## Codes
+# Codes
 
 ```R
 #Creating new variables
