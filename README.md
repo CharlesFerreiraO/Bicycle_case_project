@@ -34,3 +34,14 @@ I summarized the new column-specific variable to get an idea of ​​the result
 I aggregated them and compared the data in the "ride_length" and "member_casual" columns. To know the time comparison between members.
 
 Finally, I made the "ggplot" function to show a graph that showed which members use the bikes the most, and which days of the week they are used the most. Showing that member customers use it more than casual customers.
+
+## Codes
+
+
+
+## Preview result
+
+<div align=center>
+  <img src="https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/f736d923-7654-4d5f-88c1-025d7b2d2436" width:"300px"/>
+</div>
+
