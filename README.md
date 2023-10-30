@@ -41,7 +41,18 @@ Finally, I made the "ggplot" function to show a graph that showed which members 
 
 ## Preview result
 
+### Visualization using RStudio with the ggplot package
+<div align=center>
+  <img src="https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/a93ad188-f64a-43a2-8e44-914af8d827c8" width:"300px"/>
+</div>
+
+
+### Result visualization with Tableau
+### Better visualization through Tableau
+* https://public.tableau.com/app/profile/charles.ferreira/viz/EstudodecasoMdiadeduraodeusodebicicletasalugadas/Planilha1#1
 <div align=center>
   <img src="https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/f736d923-7654-4d5f-88c1-025d7b2d2436" width:"300px"/>
 </div>
+
+
 
