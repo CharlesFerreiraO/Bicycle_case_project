@@ -1,4 +1,4 @@
-# Índices
+# Indexes
 * [Scenario](#Scenario)
 * [Analysis process](#Development)
 * [Codes](#Codes)
