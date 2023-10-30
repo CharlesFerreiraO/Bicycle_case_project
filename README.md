@@ -228,7 +228,7 @@ write.csv(counts, "Novo volume", row.names = FALSE)
 
 ### Visualization using RStudio with the ggplot package
 <div align=center>
-  <img src="https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/a93ad188-f64a-43a2-8e44-914af8d827c8" width:"300px"/>
+  <img src="https://github.com/CharlesFerreiraO/Bicycle_case_project/assets/149080159/bfcc2586-0baa-4050-b8e5-324f9ad12f86" width:"300px"/>
 </div>
 
 
@@ -236,7 +236,7 @@ write.csv(counts, "Novo volume", row.names = FALSE)
 ### Better visualization through Tableau
 * https://public.tableau.com/app/profile/charles.ferreira/viz/EstudodecasoMdiadeduraodeusodebicicletasalugadas/Planilha1#1
 <div align=center>
-  <img src="https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/f736d923-7654-4d5f-88c1-025d7b2d2436" width:"300px"/>
+  <img src="[https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso/assets/149080159/f736d923-7654-4d5f-88c1-025d7b2d2436](https://github.com/CharlesFerreiraO/Bicycle_case_project/assets/149080159/3ea1edce-8b00-4ede-ba65-406399114041)https://github.com/CharlesFerreiraO/Bicycle_case_project/assets/149080159/3ea1edce-8b00-4ede-ba65-406399114041" width:"300px"/>
 </div>
 
 
